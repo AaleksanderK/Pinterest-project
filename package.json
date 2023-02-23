@@ -19,17 +19,9 @@
       "pre-commit": "npm run lint-staged"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Danila-Mikhaliov/Pinterest.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Danila-Mikhaliov/Pinterest/issues"
-  },
-  "homepage": "https://github.com/Danila-Mikhaliov/Pinterest#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
     "css-minimizer-webpack-plugin": "^4.2.2",
